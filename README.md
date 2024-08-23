@@ -23,7 +23,7 @@ This project focuses on classifying music tracks into different genres using mac
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/Gomukha30/Music-Genre-Classification
    ```
 2. **Navigate to the project directory**:
    ```bash
